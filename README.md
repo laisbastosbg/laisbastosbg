@@ -29,17 +29,17 @@
     <div style="display: flex; flex-direction: column">
       <h2>UniLib</h2>
       <img height="150" src="https://raw.githubusercontent.com/laisbastosbg/laisbastosbg/main/.github/images/emprestimos.png" />
-      <a href="https://uni-lib.vercel.app/emprestimos" >Demo</a>
+      <a target="_blank" href="https://uni-lib.vercel.app/emprestimos" >Demo</a>
     </div>
     <div style="display: flex; justify-content: space-between; flex-direction: column;">
       <h2>Página de Login</h2>
       <img height="150" src="https://raw.githubusercontent.com/laisbastosbg/laisbastosbg/main/.github/images/grab.png">
-      <a href="https://grab-pagina-de-login-puce.vercel.app/">Demo</a>
+      <a target="_blank" href="https://grab-pagina-de-login-puce.vercel.app/">Demo</a>
     </div>
     <div style="display: flex; justify-content: space-between; flex-direction: column;">
       <h2>Documentação com Swagger</h2>
       <img height="150" src="https://raw.githubusercontent.com/laisbastosbg/laisbastosbg/main/.github/images/rentalx-docs.png">
-      <a href="https://rentalx-symmetrical-winner.herokuapp.com/api-docs/">Demo</a>
+      <a target="_blank" href="https://rentalx-symmetrical-winner.herokuapp.com/api-docs/">Demo</a>
     </div>
   </div>
 </div>
