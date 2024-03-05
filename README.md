@@ -3,6 +3,34 @@
 
 Welcome to my GitHub corner!
 
+## 🚀 Projects
+
+<div style="margin-top: 25px">
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <div style="display: flex; flex-direction: column">
+      <h3>UniLib</h3>
+      <img height="150" src="https://raw.githubusercontent.com/laisbastosbg/laisbastosbg/main/.github/images/emprestimos.png" /> </br>
+      <p>OOP Class project for a library management system built with node and react</p>
+      <a target="_blank" href="https://uni-lib.vercel.app/emprestimos" >Demo</a> | 
+      <a target="_blank" href="https://github.com/laisbastosbg/UniLib/tree/develop" >Repo</a>
+    </div>
+    <div style="display: flex; justify-content: space-between; flex-direction: column;">
+      <h3>Login Page</h3>
+      <img height="150" src="https://raw.githubusercontent.com/laisbastosbg/laisbastosbg/main/.github/images/grab.png"></br>
+      <p>Login page with field validation in react</p>
+      <a target="_blank" href="https://grab-pagina-de-login-puce.vercel.app/">Demo</a> | 
+      <a target="_blank" href="https://github.com/laisbastosbg/grab-pagina-de-login/tree/develop" >Repo</a>
+    </div>
+    <div style="display: flex; justify-content: space-between; flex-direction: column;">
+      <h3>Swagger Docs</h3>
+      <img height="150" src="https://raw.githubusercontent.com/laisbastosbg/laisbastosbg/main/.github/images/rentalx-docs.png"></br>
+      <p>NodeJS API documentation using swagger</p>
+      <a target="_blank" href="https://rentalx-symmetrical-winner.herokuapp.com/api-docs/">Demo</a> | 
+      <a target="_blank" href="https://github.com/laisbastosbg/grab-pagina-de-login/tree/develop" >Repo</a>
+    </div>
+  </div>
+</div>
+
 ## 🌱 Currently learning
 
 <ul>
@@ -29,7 +57,7 @@ Welcome to my GitHub corner!
    <img align="center" alt="CSS" title="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </div>
 
-## 📫 Get in touch
+## 📫 Contact me
 <a href = "mailto:lais2bg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lais-godinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
