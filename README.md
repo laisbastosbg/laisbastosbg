@@ -31,7 +31,7 @@ Welcome to my GitHub corner!
   </div>
 </div>
 
-## 🌱 Currently learning
+## 🔍 Current Stack
 
 <ul>
   <li>
@@ -61,4 +61,14 @@ Welcome to my GitHub corner!
 <a href = "mailto:lais2bg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lais-godinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/laisbastosbg/laisbastosbg/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laisbastosbg/laisbastosbg/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laisbastosbg/laisbastosbg/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laisbastosbg/laisbastosbg/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<p align="center">Coding from 🇧🇷</p>
+
+###
